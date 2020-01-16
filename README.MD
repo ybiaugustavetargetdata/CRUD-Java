@@ -10,7 +10,6 @@ Ou seja, foi preciso criar duas interfaces gráficas, desenvolver
 um código para conectar o aplicativo Java ao banco de dados e,
 para isso, criei um banco de dados.  
 
-Criado por: Henrique Nunes Mendes.
 -------------------------------------------------------------------------------------------------------------------------------------
 English
 
@@ -21,5 +20,3 @@ database and give the user the option to delete that content.
 That is, it was necessary to create two graphical interfaces, to develop
 a code to connect the Java application to the database,
 for this, i created a database.
-
-Created by: Henrique Nunes Mendes.
